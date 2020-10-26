@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### November 1: Points 
 
 [Project 1 Title](/sample_page)
+text here
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
