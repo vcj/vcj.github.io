@@ -4,9 +4,8 @@
 
 ### November 1: Points 
 
-How Far Is The Nearest Ballot Drop Box?
 <img src="images/1 - points v2.jpg?raw=true"/>
-<p style="font-size:12px">Data from <a href="https://octo.dc.gov/service/dc-gis-services">DC GIS</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
+<p style="font-size:13px">Data from <a href="https://octo.dc.gov/service/dc-gis-services">DC GIS</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
 
 
 ---
