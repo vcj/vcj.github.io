@@ -4,9 +4,8 @@
 
 ### November 1: Points 
 
-[Project 1 Title](/sample_page)
-text here
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+How Far Is The Nearest Ballot Drop Box?(/sample_page)
+<img src="images/1 - points v2.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
