@@ -3,8 +3,9 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Cartographer, Washington DC 
   <br>
-  <a href="https://www.twitter.com/hurricanevicky/">twitter</a> 
-  <a href="https://vicky.substack.com">infrequent newsletter</a> 
+  <a href="https://www.twitter.com/hurricanevicky/">twitter (too frequent)</a> 
+  <br>
+  <a href="https://vicky.substack.com">newsletter (very infrequent)</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: G-P6Y7G0TC54 # your Google Analytics tracking ID here
