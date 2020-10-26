@@ -4,10 +4,11 @@
 
 ### November 1: Points 
 
-How Far Is The Nearest Ballot Drop Box?(/sample_page)
+How Far Is The Nearest Ballot Drop Box?
 <img src="images/1 - points v2.jpg?raw=true"/>
 
 ---
+<!--- -->
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -32,4 +33,4 @@ How Far Is The Nearest Ballot Drop Box?(/sample_page)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<!-- Remove above link if you don't want to attibute --> -->
