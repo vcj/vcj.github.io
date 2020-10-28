@@ -1,5 +1,5 @@
 ## 30 Day Map Challenge
-
+(<a href="https://github.com/tjukanovt/30DayMapChallenge">what is the 30 day map challenge?</a>)
 
 
 ### November 1: Points 
