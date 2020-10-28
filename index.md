@@ -1,11 +1,11 @@
 ## 30 Day Map Challenge
-(<a href="https://github.com/tjukanovt/30DayMapChallenge">what is the 30 day map challenge?</a>)
+
 
 
 ### November 1: Points 
 
 <img src="images/1 - points v2.jpg?raw=true"/>
-<p style="font-size:13px">
+<p style="font-size:13px"> I actually made this one on October 1st...too excited for the challenge, misread the thing.
  <br>Data from <a href="https://octo.dc.gov/service/dc-gis-services">DC GIS</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
 
 
