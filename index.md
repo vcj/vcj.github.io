@@ -1,6 +1,12 @@
 ## 30 Day Map Challenge
 (<a href="https://github.com/tjukanovt/30DayMapChallenge">what is the 30 day map challenge?</a>)
 
+### November 3: Polygons 
+
+<img src="images/2 lines.jpg?raw=true"/>
+<p style="font-size:13px">Since it's election day, I figured it was only right to do a set of congressional district polygons. 
+ <br>Data from <a href="http://cdmaps.polisci.ucla.edu/">http://cdmaps.polisci.ucla.edu/</a>, typeface is again <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
+
 ### November 2: Lines 
 
 <img src="images/2 lines.jpg?raw=true"/>
