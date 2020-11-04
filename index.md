@@ -4,8 +4,7 @@
 ### November 3: Polygons 
 
 <img src="images/3 polygons.jpg?raw=true"/>
-<p style="font-size:13px">Since it's election day, I figured it was only right to do a set of congressional district polygons. 
- <br>Data from <a href="http://cdmaps.polisci.ucla.edu/">http://cdmaps.polisci.ucla.edu/</a>, typeface is again <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
+<p style="font-size:13px">Since it's election day, I figured it was only right to do a set of congressional district polygons. Data from <a href="http://cdmaps.polisci.ucla.edu/">http://cdmaps.polisci.ucla.edu/</a>, typeface is again <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
 
 ### November 2: Lines 
 
