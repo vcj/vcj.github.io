@@ -4,7 +4,7 @@
 ### November 4: Hexagons 
 
 <img src="images/4 hexagons.jpg?raw=true"/>
-<p style="font-size:13px">This one started out as something else entirely but I am simply too committed to dumb and pointless mapping. Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>, typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>, which I actually purchased last year for another project and I am determined to get my money's worth out of it.</p>
+<p style="font-size:13px">This one started out as something else entirely but I am simply too committed to dumb and pointless mapping. Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>, typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>, which I actually purchased last year for another project and am determined to get my money's worth so I'm sure it'll end up on a lot more of these as the month progresses.</p>
 
 ### November 3: Polygons 
 
@@ -14,15 +14,13 @@
 ### November 2: Lines 
 
 <img src="images/2 lines.jpg?raw=true"/>
-<p style="font-size:13px"> Rarely - only twelve times since 1953 - a storm will cross over from the Atlantic to the Pacific basin (or vice versa). This map is sort of hard to read! Twelve strands of spaghetti. In hindsight I should have given them a shadow or something. Ah well. 
- <br>Data from <a href="https://www.ncdc.noaa.gov/ibtracs/index.php?name=ib-v4-access">NOAA's National Centers for Environmental Information</a>, <a href="https://www.naturalearthdata.com/">Natural Earth</a>, and <a href="https://en.wikipedia.org/wiki/List_of_Atlantic%E2%80%93Pacific_crossover_hurricanes">Wikipedia</a>. Typeface is of course <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
+<p style="font-size:13px"> Rarely - only twelve times since 1953 - a storm will cross over from the Atlantic to the Pacific basin (or vice versa). This map is sort of hard to read without enlarging it a whole lot! Twelve strands of spaghetti. In hindsight I should have given them a shadow or something. Ah well.  Data from <a href="https://www.ncdc.noaa.gov/ibtracs/index.php?name=ib-v4-access">NOAA's National Centers for Environmental Information</a>, <a href="https://www.naturalearthdata.com/">Natural Earth</a>, and <a href="https://en.wikipedia.org/wiki/List_of_Atlantic%E2%80%93Pacific_crossover_hurricanes">Wikipedia</a>. Typeface is of course <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
 
 
 ### November 1: Points 
 
 <img src="images/1 - points v2.jpg?raw=true"/>
-<p style="font-size:13px"> I actually made this one on October 1st...too excited for the challenge, misread the thing.
- <br>Data from <a href="https://octo.dc.gov/service/dc-gis-services">DC GIS</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
+<p style="font-size:13px"> I actually made this one on October 1st...too excited for the challenge I guess. Data from <a href="https://octo.dc.gov/service/dc-gis-services">DC GIS</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
 
 
 ---
