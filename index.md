@@ -3,6 +3,11 @@
 
 ### November 3: Polygons 
 
+<img src="images/4 hexagons.jpg?raw=true"/>
+<p style="font-size:13px">This map started out as something else entirely but I am simply too committed to dumb and pointless mapping. Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a>, typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>, which I actually purchased last year for another project and I am determined to get my money's worth out of it.</p>
+
+### November 3: Polygons 
+
 <img src="images/3 polygons.jpg?raw=true"/>
 <p style="font-size:13px">Since it's election day, I figured it was only right to do a set of congressional district polygons. Data from <a href="http://cdmaps.polisci.ucla.edu/">http://cdmaps.polisci.ucla.edu/</a>, typeface is again <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
 
