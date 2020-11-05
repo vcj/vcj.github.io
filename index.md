@@ -4,7 +4,7 @@
 ### November 4: Hexagons 
 
 <img src="images/4 hexagons.jpg?raw=true"/>
-<p style="font-size:13px">This map started out as something else entirely but I am simply too committed to dumb and pointless mapping. Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>, typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>, which I actually purchased last year for another project and I am determined to get my money's worth out of it.</p>
+<p style="font-size:13px">This one started out as something else entirely but I am simply too committed to dumb and pointless mapping. Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>, typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>, which I actually purchased last year for another project and I am determined to get my money's worth out of it.</p>
 
 ### November 3: Polygons 
 
