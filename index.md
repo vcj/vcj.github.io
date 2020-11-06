@@ -3,7 +3,7 @@
 
 ### November 5: Blue 
 
-<img src="images/blue.jpg?raw=true"/>
+<img src="images/blue.jpg?raw=true"target="_blank"/>
 <p style="font-size:13px">Above is what I posted to twitter, for legibility's sake. Below is the full map. Someone needs to tell these companies there are colors outside of North America and Europe....
 <img src="images/5 blue full.jpg?raw=true"/>
   Data from <a href="https://images.sherwin-williams.com/content_images/sw-pdf-sherwin-williams-color.pdf">Sherwin-Williams</a>, <a href="https://www.benjaminmoore.com/">Benjamin Moore</a>, <a href="https://encycolorpedia.com">Encycolorpedia</a>, and <a href="https://www.naturalearthdata.com/">Natural Earth</a>. Typeface is, you guessed it, <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.</p>
