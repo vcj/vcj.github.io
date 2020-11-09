@@ -1,6 +1,19 @@
 ## 30 Day Map Challenge
 (<a href="https://github.com/tjukanovt/30DayMapChallenge">what is the 30 day map challenge?</a>)
 
+
+### November 8: Yellow
+
+<img src="images/8 yellow.jpg?raw=true"/>
+<p style="font-size:13px">When I saw <a href="https://moriartynaps.org/midnight-arrivial/">Dylan's gorgeous re-creation of flying into (or out of) a city at night</a>, I was immediately reminded of the story from a few years back around Col. Chris Hadfield's photo of Berlin from space and how, decades after reunification, the city's divide was literally visible from space in the streetlights. This was a quick one, so it's not so much a map as a georeferenced and labeled satellite image. Oh well. I still like it.
+  Data from <a href="https://daten.berlin.de/">Berlin Open Data</a> and <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, image from <a href="https://twitter.com/cmdr_hadfield/status/324638635766980608?lang=en">Colonel Chris Hadfield on twitter</a>. Based on what I could translate, I am pretty sure Berlin Open Data has streetlight data, but my German is p much limited to basic conversation and not, like, technical terms. Typeface is back to <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>!</p>
+
+### November 7: Green
+
+<img src="images/goatsnstoats.jpg?raw=true"/>
+<p style="font-size:13px">Today's map plan ground to a screeching halt once I saw that the New Zealand Department of Conservation (I almost typed Department of Conversation, which was a pretty good bar on K Rd like 12 years ago) Te Papa Atawhai collected data on FERAL GOATS AND STOATS.
+  Data from <a href="https://catalogue.data.govt.nz/organization/department-of-conservation"> New Zealand Department of Conservation Te Papa Atawhai</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>. Typeface is <a href="https://www.dafont.com/franchise-2.font/">Franchise, also from dafont</a>.</p>
+
 ### November 6: Red
 
 <img src="images/bloodfield.jpg?raw=true"/>
