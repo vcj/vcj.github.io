@@ -1,6 +1,12 @@
 ## 30 Day Map Challenge
 (<a href="https://github.com/tjukanovt/30DayMapChallenge">what is the 30 day map challenge?</a>)
 
+### November 6: Red
+
+<img src="images/bloodfield.jpg?raw=true"/>
+<p style="font-size:13px">I wasn't sure what to do for this one, so I asked Taylor for ideas, and he said, "I don't know, blood?" Which led me to finding this old map of DC neighborhoods and layering that with the current spread of (blood-)red maple trees. 
+  Data from <a href="https://opendata.dc.gov/">what I am now realizing is called Open Data DC and not DC GIS anymore</a> and <a href="https://ggwash.org/view/12595/meet-me-down-in-pipetown-dcs-neighborhoods-in-1877">Greater Greater Washington</a>. Both typefaces are from <a href="https://www.dafont.com/">dafont</a>'s warehouse of free for personal use fonts.</p>
+
 ### November 5: Blue 
 
 <img src="images/blue.jpg?raw=true"/>
