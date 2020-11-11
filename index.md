@@ -3,7 +3,6 @@
 
 ### November 9: Monochrome
 
-<img src="images/8 yellow.jpg?raw=true"/>
 <p style="font-size:13px">Most of my maps for the challenge are pretty simple and straightforward, this one might need a bit more explanation. I'm not great at monochrome mapping, stylistically speaking (I love clashing colors, honestly) so I thought it best to lean on terrain mapping, where a gradient hillshade can do most of the heavy lifting.
   <br>
   Deciding what landscape to map, then, I found myself wondering if the Citadel in Erbil would show up as terrain. It's an 80- to 100-foot high tell in the center of Erbil, the capital of the Kurdish Autonomous Region of Iraq. It looks like this on Google Earth
