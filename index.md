@@ -4,13 +4,13 @@
 ### November 9: Monochrome
 
 <p style="font-size:13px">Most of my maps for the challenge are pretty simple and straightforward, this one might need a bit more explanation. I'm not great at monochrome mapping, stylistically speaking (I love clashing colors, honestly) so I thought it best to lean on terrain mapping, where a gradient hillshade can do most of the heavy lifting.
-  <br>
+  <br><br>
   Deciding what landscape to map, then, I found myself wondering if the Citadel in Erbil would show up as terrain. It's an 80- to 100-foot high tell in the center of Erbil, the capital of the Kurdish Autonomous Region of Iraq. It looks like this on Google Earth
   <img src="images/erbil_googleearth.JPG?raw=true"/>
-  and like this on the ground.
+  and like this on the ground. I can't speak for the entire country but this part of Iraq is a lot more green that it appears from above (or on cable news). 
   <img src="images/IMG-2709.jpg?raw=true"/>
   Tells are almost like artificial terrain - they're formed from centuries of people living, building and re-building, in the same spot. The tell at the center of Erbil is thought to be the longest continually occupied human settlement - people have lived there for over 6,000 years. Though it's mostly a tourist attraction these days (as well as a UNESCO World Heritage site), some folks do still live up there. 
-  <br>
+  <br><br>
  So I was wondering if this tallish, flat-topped, slope-sided hill would be distinct enough from the surrounding terrain to show up in a Shuttle Radar Topography Mission (SRTM) 1 arc second digital elevation model hillshade.
   <img src="images/erb_2.gif?raw=true"/>
   It does!!!! Here's a closer look, zoomed way in. 
