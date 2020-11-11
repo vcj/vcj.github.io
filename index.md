@@ -7,15 +7,15 @@
   <br><br>
   Deciding what landscape to map, then, I found myself wondering if the Erbil Citadel would show up as terrain. The Citadel is an 80- to 100-foot high tell in the center of Erbil, the capital of the Kurdish Autonomous Region of Iraq. It looks like this on Google Earth
   <img src="images/erbil_googleearth.JPG?raw=true"/>
-  and like this on the ground. I can't speak for the entire country but this part of Iraq is a lot more green that it appears from above (or on cable news). 
+  and like this from the ground. I can't speak for the entire country but this part of Iraq is a lot more green that it appears from above (or on cable news).  
   <img src="images/IMG-2709.jpg?raw=true"/>
   Tells are almost like artificial terrain - they're formed from centuries of people living, building and re-building, in the same spot. The tell at the center of Erbil is thought to be the longest continually occupied human settlement - people have lived there for over 6,000 years. Though it's mostly a tourist attraction these days (as well as <a href="https://whc.unesco.org/en/list/1437/">a UNESCO World Heritage site</a>), some folks do still live up there. 
   <br><br>
- So yeah I was wondering if this tallish, flat-topped, slope-sided hill would be distinct enough from the surrounding terrain to show up in a Shuttle Radar Topography Mission (SRTM) 1 arc second digital elevation model hillshade.
+ So yeah I was wondering if this tallish, flat-topped, slope-sided hill would be distinct enough from the relatively flat terrain immediately surrounding it to show up in a Shuttle Radar Topography Mission (SRTM) 1 arc second digital elevation model hillshade.
   <img src="images/erb_2.gif?raw=true"/>
-  It does!!!! Here's a closer look, zoomed way in. 
+  It does!!!! Here's a closer look, zoomed way in. Our little friend, like a small out-of-place mesa.  
   <img src="images/closeup.jpg?raw=true"/>
-  Question: answered. I then made a little map around it to help give a sense of what's being shown. 
+  Question: answered. I then made a little map around it to help give a sense of what's being shown. I feel like the geography of this area is not as familiar to most folks.
   <img src="images/9 mono.jpg?raw=true"/>
   Et voila. Data from <a href="https://search.earthdata.nasa.gov/search/granules/collection-details?p=C1000000240-LPDAAC_ECS&pg[0][gsk]=-start_date&q=SRTM&tl=1589303691!4!!">NASA SRTM</a> and <a href="https://data.humdata.org/organization/ocha-iraq">UNOCHA Iraq on Humanitarian Data Exchange</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.</p>
   
