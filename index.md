@@ -1,7 +1,25 @@
 ## 30 Day Map Challenge
 (<a href="https://github.com/tjukanovt/30DayMapChallenge">what is the 30 day map challenge?</a>)
 
+### November 9: Monochrome
 
+<img src="images/8 yellow.jpg?raw=true"/>
+<p style="font-size:13px">Most of my maps for the challenge are pretty simple and straightforward, this one might need a bit more explanation. I'm not great at monochrome mapping, stylistically speaking (I love clashing colors, honestly) so I thought it best to lean on terrain mapping, where a gradient hillshade can do most of the heavy lifting.
+  <br>
+  Deciding what landscape to map, then, I found myself wondering if the Citadel in Erbil would show up as terrain. It's an 80- to 100-foot high tell in the center of Erbil, the capital of the Kurdish Autonomous Region of Iraq. It looks like this on Google Earth
+  <img src="images/erbil_googleearth.JPG?raw=true"/>
+  and like this on the ground.
+  <img src="images/IMG-2709.jpg?raw=true"/>
+  Tells are almost like artificial terrain - they're formed from centuries of people living, building and re-building, in the same spot. The tell at the center of Erbil is thought to be the longest continually occupied human settlement - people have lived there for over 6,000 years. Though it's mostly a tourist attraction these days (as well as a UNESCO World Heritage site), some folks do still live up there. 
+  <br>
+ So I was wondering if this tallish, flat-topped, slope-sided hill would be distinct enough from the surrounding terrain to show up in a Shuttle Radar Topography Mission (SRTM) 1 arc second digital elevation model hillshade.
+  <img src="images/erb_2.gif?raw=true"/>
+  It does!!!! Here's a closer look, zoomed way in. 
+  <img src="images/closeup.jpg?raw=true"/>
+  Question: answered. I then made a little map around it to help give a sense of what's being shown. 
+  <img src="images/9 mono.jpg?raw=true"/>
+  Et voila. Data from <a href="https://search.earthdata.nasa.gov/search/granules/collection-details?p=C1000000240-LPDAAC_ECS&pg[0][gsk]=-start_date&q=SRTM&tl=1589303691!4!!">NASA SRTM</a> and <a href="https://data.humdata.org/organization/ocha-iraq">UNOCHA Iraq on Humanitarian Data Exchange</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.</p>
+  
 ### November 8: Yellow
 
 <img src="images/8 yellow.jpg?raw=true"/>
