@@ -6,7 +6,7 @@
 <img src="images/gridiron.jpg?raw=true"/>
 <p style="font-size:13px">I had oral surgery this morning and just wasn't feeling the grid theme or putting much energy into anything other than crawling back into bed, so I went in another direction and did grid...iron orientations. I thought there might be some patterns or something evident here. Nope! Not really. 
   <img src="images/grid blank.jpg?raw=true"/>
-  <p style="font-size:9px">unlabeled version, the lines are clearer
+  <p style="font-size:8px">unlabeled version, the lines are clearer. question marks are domes where orientation was unclear (the Las Vegas Raiders' dome wasn't built yet at the time the image was taken, which is fine because that dome doesn't open). 
   <br><br>
  <p style="font-size:13px">I also thought the Bills' stadium might stick out more. The stadium was built on land that includes a cemetery, 
    and the descendents of those interred there refused to allow the graves to be moved (this is not a Poltergeist situation, the headstones are still there). As a result, the stadium was not constructed North-South as originally planned but on a more East-West tilt, which allows for a vicious crosswind off Lake Erie (3.75 miles due west) to keep Bills fans' beers extra chilly. Also sometimes the wind affects the ball trajectory. And maybe the team is cursed. 
