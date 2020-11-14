@@ -26,7 +26,7 @@
  So yeah I was wondering if this tallish, flat-topped, slope-sided hill would be distinct enough from the relatively flat terrain immediately surrounding it to show up in a Shuttle Radar Topography Mission (SRTM) 1 arc second digital elevation model hillshade.
   <img src="images/erb_2.gif?raw=true"/>
   It does!!!! Here's a closer look, zoomed way in. Our little friend, like a small out-of-place mesa.  
-  <img src="images/closeup.jpg?raw=true"/>
+  <img src="images/closeup.jpg?raw=true"/> 
   Question: answered. I then made a little map around it to help give a sense of what's being shown. I feel like the geography of this area is not as familiar to most folks.
   <img src="images/9 mono.jpg?raw=true"/>
   Et voila. Data from <a href="https://search.earthdata.nasa.gov/search/granules/collection-details?p=C1000000240-LPDAAC_ECS&pg[0][gsk]=-start_date&q=SRTM&tl=1589303691!4!!">NASA SRTM</a> and <a href="https://data.humdata.org/organization/ocha-iraq">UNOCHA Iraq on Humanitarian Data Exchange</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.</p>
