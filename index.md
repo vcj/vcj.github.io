@@ -4,7 +4,7 @@
 ### November 10: Grid
 
 <img src="images/gridiron.jpg?raw=true"/>
-<p style="font-size:13px">I had oral surgery this morning and just wasn't feeling the grid theme or putting much energy into anything other than crawling back into bed, so I went in another direction and did grid...iron orientations. I thought there might be some patterns or something evident here. Nope! Not really. Note: Question marks are domes where orientation was unclear (the Las Vegas Raiders' dome wasn't built yet at the time google earth's image was taken, which is fine because that dome doesn't open).
+<p style="font-size:13px">I had oral surgery this morning and just wasn't feeling the grid theme or putting much energy into anything other than crawling back into bed, so I went in another direction and did grid...iron orientations. I thought there might be some patterns or something evident here. Nope! Not really. Question marks are domes where orientation was unclear (the Las Vegas Raiders' dome wasn't built yet at the time google earth's image was taken, which is fine because that dome doesn't open).
   <img src="images/grid blank.jpg?raw=true"/>
   <p style="font-size:xx-small">unlabeled version, the lines are clearer. 
   <br><br>
