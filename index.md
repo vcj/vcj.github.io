@@ -11,7 +11,7 @@
  <p style="font-size:13px">I also thought the Bills' stadium might stick out more. The stadium was built on land that includes a cemetery, 
    and the descendents of those interred there refused to allow the graves to be moved (this is not a Poltergeist situation, the headstones are still there). As a result, the stadium was not constructed North-South as originally planned but on a more East-West tilt, which allows for a vicious crosswind off Lake Erie (3.75 miles due west) to keep Bills fans' beers extra chilly. Also sometimes the wind affects the ball trajectory. And maybe the team is cursed. 
   <br>
-<img src="images/grid blank.jpg?raw=true"/>
+<img src="images/cemetery1.JPG?raw=true"/>
    <br>
   Images are screenshots from <a href="https://earth.google.com/"> Google Earth</a>, states from <a href="https://www.naturalearthdata.com/">Natural Earth</a>. Typeface is <a href="https://www.dafont.com/varsity-team.font/">Varsity Team from dafont</a>.</p>
 
