@@ -1,7 +1,7 @@
 ## 30 Day Map Challenge
 (<a href="https://github.com/tjukanovt/30DayMapChallenge">what is the 30 day map challenge?</a>)
 
-### November 10: Grid
+<p style="font-size:large">November 10: Grid
 
 <img src="images/gridiron.jpg?raw=true"/>
 <p style="font-size:13px">I had oral surgery this morning and just wasn't feeling the grid theme or putting much energy into anything other than crawling back into bed, so I went in another direction and did grid...iron orientations. I thought there might be some patterns or something evident here. Nope! Not really. Question marks are domes where orientation was unclear (the Las Vegas Raiders' dome wasn't built yet at the time google earth's image was taken, which is fine because that dome doesn't open).
@@ -15,7 +15,7 @@
    <br>
   Images are screenshots from <a href="https://earth.google.com/"> Google Earth</a>, states from <a href="https://www.naturalearthdata.com/">Natural Earth</a>. Typeface is <a href="https://www.dafont.com/varsity-team.font/">Varsity Team from dafont</a>.</p>
 
-### November 9: Monochrome
+<p style="font-size:large">November 9: Monochrome
 
 <p style="font-size:13px">Most of my maps for the challenge are pretty simple and straightforward, this one might need a bit more explanation. I'm not great at monochrome mapping, stylistically speaking (I love clashing colors, the more garish the better) so I thought it best to lean on terrain mapping, where a gradient hillshade can do most of the heavy lifting.
   <br><br>
