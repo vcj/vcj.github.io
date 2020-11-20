@@ -1,6 +1,11 @@
 ## 30 Day Map Challenge
 (<a href="https://github.com/tjukanovt/30DayMapChallenge">what is the 30 day map challenge?</a>)
 
+<p style="font-size:large">November 11: 3D
+
+<img src="images/stpauls1.jpg?raw=true"/>
+<p style="font-size:13px">Not a lot of 3D maps in my current role so I took the opportunity to try out a new piece of software, <a href="https://ephtracy.github.io/index.html?page=aerialod">AerialOD</a>, after seeing it all over the #30DayMapChallenge hashtag. It's a neat program, very powerful, and somewhat Blenderesque. I grabbed some LIDAR from the <a href="https://environment.data.gov.uk/DefraDataDownload/?Mode=survey">UK Department of Environmental Food and Rural Affairs' website</a> and messed around until I got something that looked all right. 
+
 <p style="font-size:large">November 10: Grid
 
 <img src="images/gridiron.jpg?raw=true"/>
