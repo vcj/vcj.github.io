@@ -1,4 +1,5 @@
 <p style="font-size:x-large">November 2020: 30 Maps in 30 Days
+ ---
 <br><p style="font-size:small">(<a href="https://github.com/tjukanovt/30DayMapChallenge">more about the map challenge</a>)
 
 <p style="font-size:large">November 12: Map Made Without GIS Software
