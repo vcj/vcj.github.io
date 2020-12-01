@@ -1,6 +1,11 @@
 ## 30 Day Map Challenge
 (<a href="https://github.com/tjukanovt/30DayMapChallenge">what is the 30 day map challenge?</a>)
 
+<p style="font-size:x-large">November 12: Map Made Without GIS Software
+
+<img src="images/IMG-2019.JPG?raw=true"/>
+This is a <a href="https://cooking.nytimes.com/recipes/1019312-chocolate-chocolate-birthday-cake">chocolate layer cake</a> with <a href="https://veenaazmanov.com/best-cherry-filling/">cherry filling</a> in between the layers, decorated with the DC metro map. There are some errors on the map, even though I was looking at a DC metro map while doing it ¯\_(ツ)_/¯
+
 <p style="font-size:large">November 11: 3D
 
 <img src="images/stpauls1.JPG?raw=true"/>
