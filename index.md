@@ -4,7 +4,7 @@
 <p style="font-size:x-large">November 12: Map Made Without GIS Software
 
 <img src="images/IMG-2019.JPG?raw=true" target="_blank"/>
-<p style="font-size:13px">This is a <a href="https://cooking.nytimes.com/recipes/1019312-chocolate-chocolate-birthday-cake" target="_blank">chocolate layer cake</a> with <a href="https://veenaazmanov.com/best-cherry-filling/" target="_blank">cherry filling</a> in between the layers, decorated with the DC metro map. There are some errors on the map, even though I was looking at a DC metro map while doing it  ¯\_(ツ)_/¯
+<p style="font-size:13px">This is a <a href="https://cooking.nytimes.com/recipes/1019312-chocolate-chocolate-birthday-cake" target="_blank">chocolate layer cake</a> with <a href="https://veenaazmanov.com/best-cherry-filling/" target="_blank">cherry filling</a> in between the layers, decorated with the DC metro map. There are some errors on the map, even though I was looking at a DC metro map while doing it ¯\_(ツ)_/¯
 
 <p style="font-size:x-large">November 11: 3D
 
