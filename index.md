@@ -5,10 +5,10 @@
 
 <img src="images/stpauls1.JPG?raw=true"/>
 <p style="font-size:13px">Not a lot of 3D maps in my current role so I took the opportunity to try out a new piece of software, <a href="https://ephtracy.github.io/index.html?page=aerialod">AerialOD</a>, after seeing it all over the Challenge hashtag. It's a neat program, very powerful, and somewhat Blenderesque. I grabbed some LIDAR from the <a href="https://environment.data.gov.uk/DefraDataDownload/?Mode=survey">UK Department of Environmental Food and Rural Affairs' website</a> and messed around until I got something that looked all right (Alisdar Rae's <a href="http://www.statsmapsnpix.com/2019/11/amazing-3d-rendering-with-aerialod.html">intro to the program</a> was KEY). 
- <br>
+ <br><br>
  The above image is looking east-ish over St Paul's Cathedral and the City, and below are two more, showing a view northwestish over Regent's Park and westish over Heathrow, just so cool that the LIDAR is so detailed you can make out individual planes!
-  <img src="images/Park1.JPG?raw=true"/>
-  <img src="images/Heathrow1.JPG?raw=true"/>
+<br><img src="images/park1.JPG?raw=true"/>
+<img src="images/heathrow1.JPG?raw=true"/>
 
 <p style="font-size:large">November 10: Grid
 
