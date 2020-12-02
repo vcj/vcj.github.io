@@ -1,3 +1,11 @@
+### November 20: Water
+
+<img src="images/superior island.jpg?raw=true" target="_blank"/>
+Once again only half-listening to the prompt, here is inverted terrain/bathymetry of Lake Superior, turning it into Superior Island. Once I had the terrain looking reasonable - there isn't exact science here, just a lot of nudging and shifting - all I did was label the features with the names of places from around the area (Thunder Bay worked especially well). 
+<br><br>
+Data from <a href="https://www.ngdc.noaa.gov/mgg/greatlakes/">NOAA</a>. Typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>.
+
+
 ### November 20: Population
 
 <img src="images/20 population.jpg?raw=true" target="_blank"/>
