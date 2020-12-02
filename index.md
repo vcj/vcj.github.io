@@ -1,14 +1,22 @@
+### November 16: Islands
+
+<img src="images/islands.jpg?raw=true" target="_blank"/>
+Taking a looser interpretation of the prompt here, also one of the few times when I've gotten a clear easy answer to the question "is there data for this?" NASA's Socioeconomic Data and Applications Center (SEDAC) kindly maintains a set of satellite-derived environmental indicators like <a href="https://sedac.ciesin.columbia.edu/data/set/sdei-viirs-dmsp-dlight" target="_blank">change in nighttime lights</a>, <a href="https://sedac.ciesin.columbia.edu/data/set/sdei-trends-freshwater-availability-grace" target="_blank">availability of freshwater resources</a>, and <a href="https://sedac.ciesin.columbia.edu/data/set/sdei-global-uhi-2013" target=_'blank">global urban heat islands</a>! This also meant I could give the map an incredibly stupid title and find the perfect typeface to match.
+
+<br><br>
+Data from the <a href="https://sedac.ciesin.columbia.edu/" target="_blank">NASA SEDAC</a> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.dafont.com/santana.font">Santana</a>, which luckily for me looks nice.
+
 ### November 15: Connections
 
 <img src="images/connex.jpg?raw=true" target="_blank"/>
 I love <a href="https://www.atlasobscura.com/articles/take-a-look-at-americas-least-convincing-cell-phone-tower-trees" target="_blank">fake tree cell towers</a>. They're so goofy looking. Structural bathos. A map of their locations seemed like a novel way to approach the theme of 'connections,' and surely the FCC tracks their location, right? Wrong! Though the FCC does maintain a database of cell tower locations as part of their publicly available Homeland Infrastructure Foundation-Level Data, sadly for me it doesn't include appearance. There are a number of other freely available databases of cell towers out there but none of them seem to include it, either. It took me honestly way too long to realize that if they were noted anywhere, it would be old reliable OpenStreetMap. Sure enough, the multitalented <a href="https://twitter.com/erictheise" target="_blank">Eric Theise</a> not only brought the OSM notation to life a year or so ago but wrote <a href="https://erictheise.com/blog/2020/01/06/fake-trees#.X8bpNc1KhPY" target="_blank">a delightful summary on the process</a> of adding the key 'mimics' to cell towers (which are as a whole classified as <a href="https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dmast" target="_blank">man-made masts</a>, hence the title). As the tag is new and not terribly well known, it is not a very complete dataset. Many are mapped as communications towers without the specific mimics tag but with the fact that they're a fake tree noted elsewhere in the tags - the mimics tag serves the function of standardizing this (these are also included on the map, I am slowly adding the mimics tag to them in OSM). Eric's writeup also includes helpful instructions on how to add the tag when you're out mapping with the <a href="https://wiki.openstreetmap.org/wiki/Go_Map!!" target="_blank">Go Map!! app</a>.
 <br><br>
-Data from the <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> downloaded via <a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo<a/> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a> and, for the code-y bits, Courier.
+Data from the <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> via <a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo<a/> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a> and, for the code-y bits, Courier.
 
 ### November 14: Climate Change
 
-<img src="images/14 climate.jpg?raw=true" target="_blank"/>
-For the challenge's climate change day, I mapped the past 70 years of wildfires in California, five years at a time. Not much to say here. Bleak.
+<img src="images/14 climate.jpg?raw=true" onclick="window.open('anotherpage.html', '_blank');" />
+For the challenge's climate change day, I mapped the past 70 years of wildfires in California, five years at a time. Not much to say here. Bleak. This map is more detailed than it appears at first glance, clicking the image will open it larger in a new tab.
 <br><br>
 Data from the <a href="https://gis.data.ca.gov/datasets/f72ebe741e3b4f0db376b4e765728339_0" target="_blank">California State Geoportal</a> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
