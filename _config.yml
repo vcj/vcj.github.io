@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.twitter.com/hurricanevicky/">twitter</a> // <a href="mailto:victoria.johnson@gmail.com?subject=maps!!!">email</a> 
   <br>
   <br>
-  (<a href="https://github.com/tjukanovt/30DayMapChallenge">more about the map challenge</a>)
+  ##### (<a href="https://github.com/tjukanovt/30DayMapChallenge">more about the map challenge</a>)
   
   
 theme: jekyll-theme-dinky
