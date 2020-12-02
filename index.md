@@ -1,9 +1,12 @@
+### November 14: Climate Change
 
+<img src="images/14 climate.gif?raw=true" target="_blank"/>
+For Climate Change day, I mapped the past 70 years of wildfires in California with 
 
 ### November 13: Raster
 
 <img src="images/kutu.gif?raw=true" target="_blank"/>
-The growing beige blob roughly in the center of this gif is the Kutupalong refugee camp  near Cox's Bazar in Bangladesh, just over the border with Myanmar. Though it's technically been there since 1991, it exploded in growth as the Rohingya population fled following a series of attacks in August 2017 and by 2018 it was (still is) the world's largest refugee camp. The gif was made with <a href="https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_SR" target="_blank">Landsat imagery</a> in <a href="https://code.earthengine.google.com/" target="_blank">Google Earth Engine</a>, <a href="https://twitter.com/hurricanevicky/status/1327456209214058497" target="_blank">here is a slightly more nuanced (but label-less, I was tired) video</a>
+The growing beige blob upper left center of this gif is the Kutupalong refugee camp near Cox's Bazar in Bangladesh, just over the border with Myanmar. Though it's technically been there since 1991, it exploded in growth as the Rohingya population fled following a series of attacks in August 2017 and by 2018 it was (still is) the world's largest refugee camp. The gif was made with <a href="https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_SR" target="_blank">Landsat imagery</a> in <a href="https://code.earthengine.google.com/" target="_blank">Google Earth Engine</a>, <a href="https://vimeo.com/486192020" target="_blank">here is a slightly more nuanced (but label-less, I was tired) video</a>
 .
 ### November 12: Map Made Without GIS Software
 
@@ -13,11 +16,12 @@ This is a <a href="https://cooking.nytimes.com/recipes/1019312-chocolate-chocola
 ### November 11: 3D
 
 <img src="images/stpauls1.JPG?raw=true"/>
-Not a lot of 3D maps in my current role so I took the opportunity to try out a new piece of software, <a href="https://ephtracy.github.io/index.html?page=aerialod">AerialOD</a>, after seeing it all over the Challenge hashtag. It's a neat program, very powerful, and somewhat Blenderesque. I grabbed some LIDAR from the <a href="https://environment.data.gov.uk/DefraDataDownload/?Mode=survey">UK Department of Environmental Food and Rural Affairs' website</a> and messed around until I got something that looked all right (Alisdar Rae's <a href="http://www.statsmapsnpix.com/2019/11/amazing-3d-rendering-with-aerialod.html">intro to the program</a> was KEY). 
+Not a lot of 3D maps in my current role so I took the opportunity to try out a new piece of software, <a href="https://ephtracy.github.io/index.html?page=aerialod">AerialOD</a>, after seeing it all over the Challenge hashtag. It's a neat program, very powerful, and somewhat Blenderesque. I grabbed some LIDAR from the <a href="https://environment.data.gov.uk/DefraDataDownload/?Mode=survey">UK Department of Environmental Food and Rural Affairs' website</a> and just sort of messed around until I got something that looked all right (Alisdar Rae's <a href="http://www.statsmapsnpix.com/2019/11/amazing-3d-rendering-with-aerialod.html">intro to the program</a> was KEY). 
  <br><br>
  The above image is looking east-ish over St Paul's Cathedral and the City, and below are two more, showing a view northnorthwestish over Regent's Park and northwestish over Heathrow, just so cool that the LIDAR is so detailed you can make out individual planes!
 <br><img src="images/park1.JPG?raw=true"/>
 <img src="images/heathrow1.JPG?raw=true"/>
+Data from <a href="https://environment.data.gov.uk/DefraDataDownload/?Mode=survey">DEFRA</a>.</p>
 
 ### November 10: Grid
 
