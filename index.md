@@ -1,3 +1,7 @@
+### November 17: Climate Change
+
+<img src="images/14 climate.jpg?raw=true" onclick="window.open('images/14 climate.jpg', '_blank');" 
+
 ### November 16: Islands
 
 <img src="images/islands.jpg?raw=true" target="_blank"/>
