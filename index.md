@@ -14,7 +14,7 @@ Data from the <a href="https://www.openstreetmap.org/" target="_blank">OpenStree
 
 ### November 14: Climate Change
 
-<img src="images/14 climate.jpg?raw=true" onclick="window.open('anotherpage.html', '_blank');" />
+<img src="images/14 climate.jpg?raw=true" onclick="window.open('14 climate.jpg', '_blank');" />
 For the challenge's climate change day, I mapped the past 70 years of wildfires in California, five years at a time. Not much to say here. Bleak. This map is more detailed than it appears at first glance, clicking the image will open it larger in a new tab.
 <br><br>
 Data from the <a href="https://gis.data.ca.gov/datasets/f72ebe741e3b4f0db376b4e765728339_0" target="_blank">California State Geoportal</a> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
