@@ -1,14 +1,21 @@
+### November 15: Connections
+
+<img src="images/connex.jpg?raw=true" target="_blank"/>
+I love <a href="https://www.atlasobscura.com/articles/take-a-look-at-americas-least-convincing-cell-phone-tower-trees" target="_blank">fake tree cell towers</a>. They're so goofy looking. Structural bathos. Mapping them seemed like a fun way to approach the theme of 'connections,' and surely the FCC tracks their location, right? Wrong. Though the FCC maintains a database of cell tower locations as part of their Homeland Infrastructure Foundation-Level Data, sadly for me it does not include appearance. There are a number of other freely available databases of cell towers but none of them seemed to include it, either. It took me too long to realize that if anyone was going to be tagging them, it would be in OpenStreetMap. Sure enough, the multitalented <a href="https://twitter.com/erictheise" target="_blank">Eric Thiese</a> not only brought the osm tag to life but wrote <a href="https://erictheise.com/blog/2020/01/06/fake-trees#.X8bpNc1KhPY" target="_blank">a delightful summary on the process</a>. If you are so inclined he also includes instructions on how to add the tag when you're out mapping with the <a href="https://wiki.openstreetmap.org/wiki/Go_Map!!" target="_blank">Go Map!! app</a>.
+
+Data from the <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> downloaded via <a href="https://overpass-turbo.eu/" target=_blank">Overpass Turbo<a/> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>.
+
 ### November 14: Climate Change
 
 <img src="images/14 climate.jpg?raw=true" target="_blank"/>
 For the challenge's climate change day, I mapped the past 70 years of wildfires in California, five years at a time. Not much to say here. Bleak.
 <br>
-Data from the <a href="https://gis.data.ca.gov/datasets/f72ebe741e3b4f0db376b4e765728339_0" target="_blank">California State Geoportal</a> and <a href="hhttps://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.</p>
+Data from the <a href="https://gis.data.ca.gov/datasets/f72ebe741e3b4f0db376b4e765728339_0" target="_blank">California State Geoportal</a> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
 ### November 13: Raster
 
 <img src="images/kutu.gif?raw=true" target="_blank"/>
-The growing beige blob upper left center of this gif is the Kutupalong refugee camp near Cox's Bazar in Bangladesh, just over the border with Myanmar. Though it's technically been there since 1991, it exploded in growth as the Rohingya population fled following a series of attacks in August 2017 and by 2018 it was (still is) the world's largest refugee camp. The gif was made with <a href="https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_SR" target="_blank">Landsat imagery</a> in <a href="https://code.earthengine.google.com/" target="_blank">Google Earth Engine</a>, <a href="https://vimeo.com/486192020" target="_blank">here is a slightly more nuanced (but label-less, I was tired) video</a>
+The growing beige blob upper left center of this gif is the Kutupalong refugee camp near Cox's Bazar in Bangladesh, just over the border with Myanmar. Though it's technically been there since 1991, it exploded in growth as the Rohingya population fled following a series of attacks in August 2017 and by 2018 it was (still is) the world's largest refugee camp. The gif was made with <a href="https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_SR" target="_blank">Landsat imagery</a> in <a href="https://code.earthengine.google.com/" target="_blank">Google Earth Engine</a>, <a href="https://youtu.be/zqBahKeXn14" target="_blank">here is a slightly more nuanced (but label-less, I was tired) video</a>
 .
 ### November 12: Map Made Without GIS Software
 
