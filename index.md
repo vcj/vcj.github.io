@@ -2,8 +2,8 @@
 
 <img src="images/connex.jpg?raw=true" target="_blank"/>
 I love <a href="https://www.atlasobscura.com/articles/take-a-look-at-americas-least-convincing-cell-phone-tower-trees" target="_blank">fake tree cell towers</a>. They're so goofy looking. Structural bathos. A map of their locations seemed like a novel way to approach the theme of 'connections,' and surely the FCC tracks their location, right? Wrong! Though the FCC does maintain a database of cell tower locations as part of their publicly available Homeland Infrastructure Foundation-Level Data, sadly for me it doesn't include appearance. There are a number of other freely available databases of cell towers out there but none of them seem to include it, either. It took me honestly way too long to realize that if they were noted anywhere, it would be old reliable OpenStreetMap. Sure enough, the multitalented <a href="https://twitter.com/erictheise" target="_blank">Eric Theise</a> not only brought the OSM notation to life a year or so ago but wrote <a href="https://erictheise.com/blog/2020/01/06/fake-trees#.X8bpNc1KhPY" target="_blank">a delightful summary on the process</a> of adding the key 'mimics' to cell towers (which are as a whole classified as <a href="https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dmast" target="_blank">man-made masts</a>, hence the title). As the tag is new and not terribly well known, it is not a very complete dataset. Many are mapped as communications towers without the specific mimics tag but with the fact that they're a fake tree noted elsewhere in the tags - the mimics tag serves the function of standardizing this (these are also included on the map, I am slowly adding the mimics tag to them in OSM). Eric's writeup also includes helpful instructions on how to add the tag when you're out mapping with the <a href="https://wiki.openstreetmap.org/wiki/Go_Map!!" target="_blank">Go Map!! app</a>.
-
-Data from the <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> downloaded via <a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo<a/> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a> and, for the code, .
+<br>
+Data from the <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> downloaded via <a href="https://overpass-turbo.eu/" target="_blank">Overpass Turbo<a/> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a> and, for the code, Courier.
 
 ### November 14: Climate Change
 
@@ -30,7 +30,7 @@ Not a lot of 3D maps in my current role so I took the opportunity to try out a n
  The above image is looking east-ish over St Paul's Cathedral and the City, and below are two more, showing a view northnorthwestish over Regent's Park and northwestish over Heathrow, just so cool that the LIDAR is so detailed you can make out individual planes!
 <br><img src="images/park1.JPG?raw=true"/>
 <img src="images/heathrow1.JPG?raw=true"/>
-Data from <a href="https://environment.data.gov.uk/DefraDataDownload/?Mode=survey">DEFRA</a>.</p>
+Data from <a href="https://environment.data.gov.uk/DefraDataDownload/?Mode=survey">DEFRA</a>.
 
 ### November 10: Grid
 
@@ -44,7 +44,7 @@ I had oral surgery this morning and just wasn't feeling the grid theme or puttin
   <br>
 <img src="images/cemetery1.JPG?raw=true"/>
    <br>
-  Images are screenshots from <a href="https://earth.google.com/"> Google Earth</a>, states from <a href="https://www.naturalearthdata.com/">Natural Earth</a>. Typeface is <a href="https://www.dafont.com/varsity-team.font/">Varsity Team from dafont</a>.</p>
+  Images are screenshots from <a href="https://earth.google.com/"> Google Earth</a>, states from <a href="https://www.naturalearthdata.com/">Natural Earth</a>. Typeface is <a href="https://www.dafont.com/varsity-team.font/">Varsity Team from dafont</a>.
 
 ### November 9: Monochrome
 
@@ -62,53 +62,65 @@ Most of my maps for the challenge are pretty simple and straightforward, this on
   <img src="images/closeup.jpg?raw=true"/> 
   Question: answered. I then made a little map around it to help give a sense of what's being shown. I feel like the geography of this area is not as familiar to most folks.
   <img src="images/9 mono.jpg?raw=true"/>
-  Et voila. Data from <a href="https://search.earthdata.nasa.gov/search/granules/collection-details?p=C1000000240-LPDAAC_ECS&pg[0][gsk]=-start_date&q=SRTM&tl=1589303691!4!!">NASA SRTM</a> and <a href="https://data.humdata.org/organization/ocha-iraq">UNOCHA Iraq on Humanitarian Data Exchange</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.</p>
+  Et voila. 
+  <br>
+  Data from <a href="https://search.earthdata.nasa.gov/search/granules/collection-details?p=C1000000240-LPDAAC_ECS&pg[0][gsk]=-start_date&q=SRTM&tl=1589303691!4!!">NASA SRTM</a> and <a href="https://data.humdata.org/organization/ocha-iraq">UNOCHA Iraq on Humanitarian Data Exchange</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
   
 ### November 8: Yellow
 
 <img src="images/8 yellow.jpg?raw=true"/>
 When I saw <a href="https://moriartynaps.org/midnight-arrivial/">Dylan's gorgeous re-creation of flying into (or out of) a city at night</a>, I was immediately reminded of the story from a few years back around Col. Chris Hadfield's photo of Berlin from space and how, decades after reunification, the city's divide was literally visible from space in the streetlights. This was a quick one, so it's not so much a map as a georeferenced and labeled satellite image. Oh well. I still like it.
-  Data from <a href="https://daten.berlin.de/">Berlin Open Data</a> and <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, image from <a href="https://twitter.com/cmdr_hadfield/status/324638635766980608?lang=en">Colonel Chris Hadfield on twitter</a>. Based on what I could translate, I am pretty sure Berlin Open Data has streetlight data, but my German is p much limited to basic conversation and not, like, technical terms. Typeface is back to <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>!</p>
+<br>
+Data from <a href="https://daten.berlin.de/">Berlin Open Data</a> and <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, image from <a href="https://twitter.com/cmdr_hadfield/status/324638635766980608?lang=en">Colonel Chris Hadfield on twitter</a>. Based on what I could translate, I am pretty sure Berlin Open Data has streetlight data, but my German is p much limited to basic conversation and not, like, technical terms. Typeface is back to <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>!
 
 ### November 7: Green
 
 <img src="images/goatsnstoats.jpg?raw=true"/>
 Today's map plan ground to a screeching halt once I saw that the New Zealand Department of Conservation (I almost typed Department of Conversation, which was a pretty good bar on K Rd like 12 years ago) Te Papa Atawhai collected data on FERAL GOATS AND STOATS.
-  Data from <a href="https://catalogue.data.govt.nz/organization/department-of-conservation"> New Zealand Department of Conservation Te Papa Atawhai</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>. Typeface is <a href="https://www.dafont.com/franchise-2.font/">Franchise, also from dafont</a>.</p>
+<br>
+Data from <a href="https://catalogue.data.govt.nz/organization/department-of-conservation"> New Zealand Department of Conservation Te Papa Atawhai</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>. Typeface is <a href="https://www.dafont.com/franchise-2.font/">Franchise, also from dafont</a>.
 
 ### November 6: Red
 
 <img src="images/bloodfield.jpg?raw=true"/>
 I wasn't sure what to do for this one, so I asked Taylor for ideas, and he said, "I don't know, blood?" Which led me to finding this old map of DC neighborhoods and layering that with the current spread of (blood-)red maple trees. 
-  Data from <a href="https://opendata.dc.gov/">what I am now realizing is called Open Data DC and not DC GIS anymore</a> and <a href="https://ggwash.org/view/12595/meet-me-down-in-pipetown-dcs-neighborhoods-in-1877">Greater Greater Washington</a>. Both typefaces are from <a href="https://www.dafont.com/">dafont</a>'s warehouse of free for personal use fonts.</p>
+<br>
+Data from <a href="https://opendata.dc.gov/">what I am now realizing is called Open Data DC and not DC GIS anymore</a> and <a href="https://ggwash.org/view/12595/meet-me-down-in-pipetown-dcs-neighborhoods-in-1877">Greater Greater Washington</a>. Both typefaces are from <a href="https://www.dafont.com/">dafont</a>'s warehouse of free for personal use fonts.</p>
 
 ### November 5: Blue 
 
 <img src="images/blue.jpg?raw=true"/>
 Above is what I posted to twitter, for legibility's sake. Below is the full map. Someone needs to tell these companies there are colors outside of North America and Europe....
 <img src="images/5 blue full.jpg?raw=true"/>
-  Data from <a href="https://images.sherwin-williams.com/content_images/sw-pdf-sherwin-williams-color.pdf">Sherwin-Williams</a>, <a href="https://www.benjaminmoore.com/">Benjamin Moore</a>, <a href="https://encycolorpedia.com">Encycolorpedia</a>, and <a href="https://www.naturalearthdata.com/">Natural Earth</a>. Typeface is, you guessed it, <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.</p>
+<br>
+Data from <a href="https://images.sherwin-williams.com/content_images/sw-pdf-sherwin-williams-color.pdf">Sherwin-Williams</a>, <a href="https://www.benjaminmoore.com/">Benjamin Moore</a>, <a href="https://encycolorpedia.com">Encycolorpedia</a>, and <a href="https://www.naturalearthdata.com/">Natural Earth</a>. Typeface is, you guessed it, <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
 ### November 4: Hexagons 
 
 <img src="images/4 hexagons.jpg?raw=true"/>
-This one started out as something else entirely but I am simply too committed to dumb and pointless mapping. Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>, typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>, which I actually purchased last year for another project and am determined to get my money's worth so I'm sure it'll end up on a lot more of these as the month progresses.</p>
+This one started out as something else entirely but I am simply too committed to dumb and pointless mapping.
+<br>Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a> and <a href="https://www.naturalearthdata.com/">Natural Earth</a>, typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>, which I actually purchased last year for another project and am determined to get my money's worth so I'm sure it'll end up on a lot more of these as the month progresses.
 
 ### November 3: Polygons 
 
 <img src="images/3 polygons.jpg?raw=true"/>
-Since it's election day, I figured it was only right to do a set of congressional district polygons. Data from <a href="http://cdmaps.polisci.ucla.edu/">http://cdmaps.polisci.ucla.edu/</a>, typeface is again <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
+<br>
+Since it's election day, I figured it was only right to do a set of congressional district polygons. Data from <a href="http://cdmaps.polisci.ucla.edu/">http://cdmaps.polisci.ucla.edu/</a>, typeface is again <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. 
 
 ### November 2: Lines 
 
 <img src="images/2 lines.jpg?raw=true"/>
-Rarely - only twelve times since 1953 - a storm will cross over from the Atlantic to the Pacific basin (or vice versa). Data from <a href="https://www.ncdc.noaa.gov/ibtracs/index.php?name=ib-v4-access">NOAA's National Centers for Environmental Information</a>, <a href="https://www.naturalearthdata.com/">Natural Earth</a>, and <a href="https://en.wikipedia.org/wiki/List_of_Atlantic%E2%80%93Pacific_crossover_hurricanes">Wikipedia</a>. Typeface is of course <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
+Rarely - only twelve times since 1953 - a storm will cross over from the Atlantic to the Pacific basin (or vice versa).
+<br>
+Data from <a href="https://www.ncdc.noaa.gov/ibtracs/index.php?name=ib-v4-access">NOAA's National Centers for Environmental Information</a>, <a href="https://www.naturalearthdata.com/">Natural Earth</a>, and <a href="https://en.wikipedia.org/wiki/List_of_Atlantic%E2%80%93Pacific_crossover_hurricanes">Wikipedia</a>. Typeface is of course <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
 
 ### November 1: Points 
 
 <img src="images/1 - points v2.jpg?raw=true"/>
- I actually made this one on October 1st...too excited for the challenge I guess. Data from <a href="https://octo.dc.gov/service/dc-gis-services">DC GIS</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. </p>
+ I actually made this one on October 1st...too excited for the challenge I guess. 
+ <br>
+ Data from <a href="https://octo.dc.gov/service/dc-gis-services">DC GIS</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. 
 
 
 ---
