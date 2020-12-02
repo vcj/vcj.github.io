@@ -2,7 +2,7 @@
 
 <img src="images/statehood.jpg?raw=true" target="_blank"/>
 Juuuust to drive yesterday's point home. 
-
+<br><br>
 Text is from a short but persuasive speech DC Delegate/non-voting Congresswoman Eleanor Holmes Norton gave to the House last year, <a href="https://www.congress.gov/congressional-record/2019/09/10/house-section/article/H7592-2" target="_blank">you can read the full thing here if you'd like</a> (it's also easier to read in non-map format, though I am impressed by how readable BellTopo Sans is for a big block of text), shape of DC from <a href="https://octo.dc.gov/service/dc-gis-services">DC Open Data</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. 
 
 ### November 18: Landuse
