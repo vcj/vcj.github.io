@@ -1,7 +1,9 @@
 ### November 14: Climate Change
 
-<img src="images/14 climate.gif?raw=true" target="_blank"/>
-For Climate Change day, I mapped the past 70 years of wildfires in California with 
+<img src="images/14 climate.jpg?raw=true" target="_blank"/>
+For the challenge's climate change day, I mapped the past 70 years of wildfires in California, five years at a time. Not much to say here. Bleak.
+<br>
+Data from the <a href="https://gis.data.ca.gov/datasets/f72ebe741e3b4f0db376b4e765728339_0" target="_blank">California State Geoportal</a> and <a href="hhttps://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.</p>
 
 ### November 13: Raster
 
