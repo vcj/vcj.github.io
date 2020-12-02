@@ -15,8 +15,8 @@ Data from the <a href="https://gis.data.ca.gov/datasets/f72ebe741e3b4f0db376b4e7
 ### November 13: Raster
 
 <img src="images/kutu.gif?raw=true" target="_blank"/>
-The growing beige blob upper left center of this gif is the Kutupalong refugee camp near Cox's Bazar in Bangladesh, just over the border with Myanmar. Though it's technically been there since 1991, it exploded in growth as the Rohingya population fled following a series of attacks in August 2017 and by 2018 it was (still is) the world's largest refugee camp. The gif was made with <a href="https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_SR" target="_blank">Landsat imagery</a> in <a href="https://code.earthengine.google.com/" target="_blank">Google Earth Engine</a>, <a href="https://youtu.be/zqBahKeXn14" target="_blank">here is a slightly more nuanced (but label-less, I was tired) video</a>
-.
+The growing beige blob upper left center of this gif is the Kutupalong refugee camp near Cox's Bazar in Bangladesh, just over the border with Myanmar. Though it's technically been there since 1991, it exploded in growth as the Rohingya population fled following a series of attacks in August 2017 and by 2018 it was (still is) the world's largest refugee camp. The gif was made with <a href="https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LE07_C01_T1_SR" target="_blank">Landsat imagery</a> in <a href="https://code.earthengine.google.com/" target="_blank">Google Earth Engine</a>, <a href="https://youtu.be/zqBahKeXn14" target="_blank">here is a slightly more nuanced (but label-less, I was tired) video</a>.
+
 ### November 12: Map Made Without GIS Software
 
 <img src="images/IMG-2019.JPG?raw=true" target="_blank"/>
