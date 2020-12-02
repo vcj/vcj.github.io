@@ -1,6 +1,6 @@
-### November 17: Climate Change
+### November 17: Historical
 
-<img src="images/14 climate.jpg?raw=true" onclick="window.open('images/14 climate.jpg', '_blank');" 
+<img src="images/tpir.jpg?raw=true" onclick="window.open('images/tpir.jpg', '_blank');" 
 
 ### November 16: Islands
 
