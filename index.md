@@ -1,3 +1,11 @@
+### November 20: Population
+
+<img src="images/20 population.jpg?raw=true" target="_blank"/>
+One of the best aspects of the 30 Day Map Challenge is that it's a global challenge, so by the time I'm sitting down to make mine, the hashtag is already busy with wonderful cartography from mappers all over the world. I noticed a bunch of lovely work pointing towards <a href="http://www.statsmapsnpix.com/2020/11/how-to-make-3d-population-density.html" target="_blank">Alasdair Rae's 3D population density render</a> and had to try it out for myself.
+
+Data from <a href="https://www.worldpop.org/project/categories?id=18">DC Open Data</a> rendered in <a href="http://ephtracy.github.io/index.html?page=aerialod" target="_blank">AerialOD</a>. Title translated in, uh, Google Translate. Mówię trochę po polsku but it's more like "soup, please" than any technical terminology. Typeface is Gill Sans.
+
+
 ### November 19: NULL
 
 <img src="images/statehood.jpg?raw=true" target="_blank"/>
