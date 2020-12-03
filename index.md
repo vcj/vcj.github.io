@@ -1,9 +1,16 @@
+### November 23: Elevation
+
+<img src="images/Ruapehu.jpg?raw=true" target="_blank"/>
+<a href="https://twitter.com/visualvariable" target="_blank"> Travis White</a> is an exceptionally adroit cartographer and researcher. He's brilliantly creative, but also just very funny and lively and an excellent speaker, so his NACIS talks are always must-attend sessions for me. At NACIS 2018 (Norfolk) he gave a talk called <a href="https://www.youtube.com/watch?v=EUWDSpcs7W0" target="_blank">Cartographic Pleasures</a> on his work recreating Joy Division’s 1979 album Unknown Pleasures as terrain transect maps, and that talk has stuck in the back of my mind since then, emerging today for the Elevation theme. He also, helpfully, wrote up <a href="https://cartographicperspectives.org/index.php/journal/article/view/1536/1726" target="_blank">a very easy to follow tutorial in Cartographic Perspectives</a>, which is what I followed to make this one. I chose Mt Ruapehu as the terrain, just I skiied there once when I was living in Auckland and rather like it's shape. Probably the only active volcano I will ever ski I reckon. Truly cannot tell you why I styled it to look like some hotel art from the 1980s.
+<br><br>
+Data from Data from <a href="https://search.earthdata.nasa.gov/search/granules/collection-details?p=C1000000240-LPDAAC_ECS&pg[0][gsk]=-start_date&q=SRTM&tl=1589303691!4!!">NASA SRTM</a>. Typeface is Gill Sans.
+
+
 ### November 22: Boundaries
 
 <img src="images/antarctica.jpg?raw=true" target="_blank"/>
 The main takeaway from this one is that the Norsk Polarinstitutt operates a free data platform called QUANTARCTICA.
-<br><br>
-Data from <a href="https://data.gov.au/dataset/ds-dga-113a23e6-eb2c-436e-a996-ee7a2244602f/distribution/dist-dga-11f853b3-9b8e-4360-b9ad-a6e3329684ab/details?q=">data.gov.au</a> and <a href="https://www.npolar.no/en/quantarctica/" target="_blank">Quantarctica</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
+
 
 ### November 22: Movement
 
