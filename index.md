@@ -1,11 +1,11 @@
 ### November 30: A Map
 
-<img src="images/AStreet.JPG?raw=true" target="_blank"/>
+<img src="images/AStreet.jpg?raw=true" target="_blank"/>
 
 
 ### November 29: Globe
 
-<img src="images/globe.JPG?raw=true" target="_blank"/>
+<img src="images/globe.jpg?raw=true" target="_blank"/>
 Hands down the map I spent the least amount of time on right here. I committed to doing this challenge every day and it's really only possible because of this perpetual state of quarantine but I am ready to get my evenings back. 
 <br><br>
 I am the proud owner of a 1965 Replogle globe, it haunts the top of a bookcase and looks handsome collecting dust (if this sounds familiar...I did write <a href="https://medium.com/the-awl/i-dont-even-know-who-you-are-anymore-1772af1d2208" target="_blank">an awl piece</a> in 2011 about getting drunk and buying it). Thoroughly uninterested in giving up any more of my Sunday than strictly necessary I pulled globe down and mapped which borders have changed between 1965 and now. They can't all be winners. 
@@ -15,14 +15,14 @@ Data from Replogle and <a href="https://www.naturalearthdata.com/"target="_blank
 
 ### November 28: Non-Geographic Map
 
-<img src="images/drums.JPG?raw=true" target="_blank"/>
+<img src="images/drums.jpg?raw=true" target="_blank"/>
 In February - I can't believe it was this year - Lindsey, Taylor, and I played a set of blink-182 covers in a benefit show for HIPS DC. It was exhilirating, and not just becase the Ramones band's bass player walked out and disappeared into the night in the middle of a song. I miss seeing and playing live music with my friends but I do not miss the stress of learning four difficult songs over the too-short weeks leading up to show! This map is sort of a peek into my memorization process, in that I think about where my hands and feet need to be spatially rather than musically, if that makes sense. It doesn't make me a great improviser but has made breaking down a song into managable parts something I feel comfortable doing.
 <br><br>
 Data from <a href="https://www.youtube.com/watch?v=vVy9Lgpg1m8">Travis Barker</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
 ### November 27: Big or Small Data
 
-<img src="images/smalldata.JPG?raw=true" target="_blank"/>
+<img src="images/smalldata.jpg?raw=true" target="_blank"/>
 Well obviously I went for small data here, in the form of the individual cups of coffee I've had over the past year or so. Back when I went to an office I would plot my commute (on foot it's about three miles, a nice way to start the day) based on whatever coffee I was feeling that day, so that's what most of these are. The rest are pretty much one-offs, like getting a coffee before hopping on a train or something.
 <br><br>
 Data from my memory and <a href="https://octo.dc.gov/service/dc-gis-services">DC Open Data</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
