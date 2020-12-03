@@ -1,7 +1,9 @@
 ### November 25: Map with a New Tool
 
 <img src="images/IMG-2269.JPG?raw=true" target="_blank"/>
-It's Thanksgiving. I did not want to turn my computer on today. Watercolors are not reallllllly a new tool for me, but the only other page on the watercolor pad with anything on it had a painting of a hoagie. The drink is a cranberry negroni.
+It's Thanksgiving. I did not want to turn my computer on today. Watercolors are not technically a new tool for me, but the only other page on the watercolor pad with anything on it had a painting of a hoagie. My skill level should make it clear, it's new enough that I'm not very good at it.
+
+Drink is a <a href="https://www.seriouseats.com/recipes/2011/11/drinking-in-season-cranberry-negroni.html" target="_blank">cranberry negroni</a>.
 
 
 ### November 24: COVID-19
