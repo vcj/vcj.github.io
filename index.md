@@ -1,9 +1,19 @@
+### November 24: COVID-19
+
+<img src="images/Corvids-nineteen.jpg?raw=true" target="_blank"/>
+Theme is Corvid 19? Did I read that right?
+
+Okay okay, just I've done a bunch of COVID-19 mapping at work this year. And hey, if you're gonna go for the dumb joke, you want to do the dumb joke well. 
+
+<br><br>
+Data from <a href="https://ebird.org/home" target="_blank">Cornell Lab of Ornithology</a> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. 
+
 ### November 23: Elevation
 
 <img src="images/Ruapehu.jpg?raw=true" target="_blank"/>
-<a href="https://twitter.com/visualvariable" target="_blank"> Travis White</a> is an adroit cartographer and researcher. He's brilliantly creative, but also just very funny and lively and an excellent speaker, so his NACIS talks are always must-attend sessions for me. At NACIS 2018 (Norfolk) he gave a talk called <a href="https://www.youtube.com/watch?v=EUWDSpcs7W0" target="_blank">Cartographic Pleasures</a> Joy Division’s 1979 album Unknown Pleasures as inspiration for terrain transect maps, and that talk has stuck in the back of my mind, emerging today for the Elevation theme. He also, helpfully, wrote up <a href="https://cartographicperspectives.org/index.php/journal/article/view/1536/1726" target="_blank">a very easy to follow tutorial in Cartographic Perspectives</a>, which is what I followed to make this one. I chose Mt Ruapehu as the terrain, I skiied there once when I lived in Auckland and rather like its shape. Probably the only active volcano I will ever ski I reckon. Truly cannot tell you why I styled it to look like some hotel art from the 1980s.
+<a href="https://twitter.com/visualvariable" target="_blank"> Travis White</a> is an adroit cartographer and researcher. He's brilliantly creative, but also just very funny and lively and an excellent speaker, so his NACIS talks are always must-attend sessions for me. At NACIS 2018 (Norfolk) he gave a talk called <a href="https://www.youtube.com/watch?v=EUWDSpcs7W0" target="_blank">Cartographic Pleasures</a> on Joy Division’s 1979 album Unknown Pleasures as inspiration for terrain transect maps, and that concept has been stuck in the back of my mind as something I wanted to try. Helpfully, he also wrote up <a href="https://cartographicperspectives.org/index.php/journal/article/view/1536/1726" target="_blank">a very easy to follow tutorial in Cartographic Perspectives</a>, which is how I made this one. I chose Mt Ruapehu as the terrain, I skiied there once when I lived in Auckland and rather like its shape. Probably the only active volcano I will ever ski I reckon. Truly cannot tell you why I styled it to look like some hotel art from the 1980s.
 <br><br>
-Data from <a href="https://search.earthdata.nasa.gov/search/granules/collection-details?p=C1000000240-LPDAAC_ECS&pg[0][gsk]=-start_date&q=SRTM&tl=1589303691!4!!" target="_blank">NASA SRTM</a>. Typeface is Gill Sans.
+Data from <a href="https://search.earthdata.nasa.gov/search/granules/collection-details" target="_blank">NASA SRTM</a>. Typeface is Gill Sans.
 
 
 ### November 22: Boundaries
