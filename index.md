@@ -1,7 +1,7 @@
 ### November 30: A Map
 
 <img src="images/AStreet.jpg?raw=true" target="_blank"/>
-This map was inspired by one of the regular drives Taylor and I take whenever we visit his family in Florida and the comment he reliably makes when we pass <a href="https://www.google.com/maps/@29.8444999,-81.2770064,3a,75y,170.96h,113.62t/data=!3m6!1e1!3m4!1sC_FYRNQgfN7Bmjs4dWLAgA!2e0!7i16384!8i8192" target="_blank">this sign</a>: "hey! a street!" There are at least two A Streets in DC as well, North and South of the East Capitol Street. How many A Streets are there? Turns out, a whole lot. This map is by segment, so it's giving a somewhat false impression of just how many, but it conveys the same basic information. Naturally, I wondered how many of these A Streets are within a quarter mile of a segment of B Street. Next up, what's the story about the A Streets that aren't? Less instantly mappable but still, curious. 
+This map was inspired by one of the regular drives Taylor and I take whenever we visit his family in Florida and the comment he reliably makes when we pass <a href="https://www.google.com/maps/@29.8444999,-81.2770064,3a,75y,170.96h,113.62t/data=!3m6!1e1!3m4!1sC_FYRNQgfN7Bmjs4dWLAgA!2e0!7i16384!8i8192" target="_blank">this sign</a>: "hey! a street!" There are at least two A Streets in DC as well, North and South of the East Capitol Street. How many A Street segments are there? Turns out, a whole lot. Naturally, I wondered how many of these A Streets are within a quarter mile of a segment of B Street. Next up, what's the story about the A Streets that aren't near a B St? Less instantly mappable but still, I am curious. 
 <br><br>
 Alternate approach, just enjoy being screamed at by this map.
 <br><br>
