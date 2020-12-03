@@ -1,7 +1,18 @@
-### November 20: Water
+### November 22: Movement
+
+<img src="images/trams1.jpg?raw=true" target="_blank"/>
+I'm finding the challenge to be great for clearing out halfbaked ideas; this is another one I had been kicking around for a while (this and an atlas of lazy rivers. I cannot resist a small, contained system). The three types are how they are listed in OpenStreetMap. Couple of points of interest on this:
+<br>1. Denver's airport is HUGE. The blue polygons are the full airport extents (aerodrome OSM tag), all of them are shown at the same 1:225,000 scale. Soemthing I did not realize until making this, DEN is the second-largest airport in the world by land area (the first being <a href="https://en.wikipedia.org/wiki/King_Fahd_International_Airport" target="_blank">King Fahd International in Saudi Arabia</a>). It is 52 square miles, or a Manhattan and a half. 
+<br>2. I used <a href="https://en.wikipedia.org/wiki/List_of_airport_people_mover_systems#Americas" target="_blank">this list on wikipedia</a>, active systems only, because you have to draw the line somewhere. The Dulles line is the AeroTrain, which means my boyfriend the utterly magnificent Dulles People Mover isn't on it! Unrelated to the map but <a href="https://vimeo.com/4139559" target="_blank">if you have ten minutes I recommend spending them with this ultracharming Charles and Ray Eames-produced video about it from 1958.</a> 
+<br>3. That is not an error the Minneapolis-St Paul airport has two independent parallel systems, a people mover and a tram. They are different! 
+<br><br>
+Data from <a href="https://www.openstreetmap.org/">OpenStreetMap</a> and this <a href="https://en.wikipedia.org/wiki/List_of_airport_people_mover_systems#Americas" target="_blank">wiki list of airport people mover systems</a>. Typeface is <a href="https://www.dafont.com/flighter.font">Flighter</a>.
+ 
+
+### November 21: Water
 
 <img src="images/superior island.jpg?raw=true" target="_blank"/>
-Once again only half-listening to the prompt, here is inverted terrain/bathymetry of Lake Superior, turning it into Superior Island. Once I had the terrain looking reasonable - there isn't exact science here, just a lot of nudging and shifting - all I did was label the features with the names of places from around the area (Thunder Bay worked especially well). 
+Once again only half-listening to the prompt, here I inverted the bathymetry of Lake Superior and turned it into Superior Island. Once I had the terrain looking reasonable - there isn't exact science with fake land, just a lot of nudging and shifting in Photoshop - all I did was label the features with the names of places from around the area (Thunder Bay worked especially well). 
 <br><br>
 Data from <a href="https://www.ngdc.noaa.gov/mgg/greatlakes/">NOAA</a>. Typeface is <a href="https://lauraworthingtondesign.com/products/collections/charcuterie">Charcuterie</a>.
 
