@@ -1,12 +1,17 @@
+### November 25: Map with a New Tool
+
+<img src="images/IMG-2269.JPG?raw=true" target="_blank"/>
+It's Thanksgiving. I did not want to turn my computer on today. Watercolors are not reallllllly a new tool for me, but the only other page on the watercolor pad with anything on it had a painting of a hoagie.
+
+
 ### November 24: COVID-19
 
 <img src="images/Corvids-nineteen.jpg?raw=true" target="_blank"/>
 Theme is Corvid 19? Did I read that right?
-
-Okay okay, just I've done a bunch of COVID-19 mapping at work this year. And hey, if you're gonna go for the dumb joke, you want to do the dumb joke well. 
-
 <br><br>
-Data from <a href="https://ebird.org/home" target="_blank">Cornell Lab of Ornithology</a> and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. 
+Actually rather proud of how well this dumb joke turned out. I've done a bunch of COVID-19 mapping at work this year. I have not done nearly as much dumb joke mapping.
+<br><br>
+Data from <a href="https://ebird.org/home" target="_blank">Cornell Lab of Ornithology</a>, which only had 18 corvids so I threw in a shrike as well (close enough) and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. 
 
 ### November 23: Elevation
 
