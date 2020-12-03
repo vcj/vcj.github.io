@@ -1,3 +1,10 @@
+### November 22: Boundaries
+
+<img src="images/antarctica.jpg?raw=true" target="_blank"/>
+The main takeaway from this one is that the Norsk Polarinstitutt operates a free data platform called QUANTARCTICA.
+<br><br>
+Data from <a href="https://data.gov.au/dataset/ds-dga-113a23e6-eb2c-436e-a996-ee7a2244602f/distribution/dist-dga-11f853b3-9b8e-4360-b9ad-a6e3329684ab/details?q=">data.gov.au</a> and <a href="https://www.npolar.no/en/quantarctica/" target="_blank">Quantarctica</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
+
 ### November 22: Movement
 
 <img src="images/trams1.jpg?raw=true" target="_blank"/>
