@@ -1,12 +1,41 @@
-### November 25: Map with a New Tool
+### November 30: A Map
+
+<img src="images/AStreet.JPG?raw=true" target="_blank"/>
+
+
+### November 29: Globe
+
+<img src="images/globe.JPG?raw=true" target="_blank"/>
+Hands down the map I spent the least amount of time on right here. I committed to doing this challenge every day and it's really only possible because of this perpetual state of quarantine but I am ready to get my evenings back. 
+<br><br>
+I am the proud owner of a 1965 Replogle globe, it haunts the top of a bookcase and looks handsome collecting dust (if this sounds familiar...I did write <a href="https://medium.com/the-awl/i-dont-even-know-who-you-are-anymore-1772af1d2208" target="_blank">an awl piece</a> in 2011 about getting drunk and buying it). Thoroughly uninterested in giving up any more of my Sunday than strictly necessary I pulled globe down and mapped which borders have changed between 1965 and now. They can't all be winners. 
+<br><br>
+Data from Replogle and <a href="https://www.naturalearthdata.com/"target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
+
+
+### November 28: Non-Geographic Map
+
+<img src="images/drums.JPG?raw=true" target="_blank"/>
+In February - I can't believe it was this year - Lindsey, Taylor, and I played a set of blink-182 covers in a benefit show for HIPS DC. It was exhilirating, and not just becase the Ramones band's bass player walked out and disappeared into the night in the middle of a song. I miss seeing and playing live music with my friends but I do not miss the stress of learning four difficult songs over the too-short weeks leading up to show! This map is sort of a peek into my memorization process, in that I think about where my hands and feet need to be spatially rather than musically, if that makes sense. It doesn't make me a great improviser but has made breaking down a song into managable parts something I feel comfortable doing.
+<br><br>
+Data from <a href="https://www.youtube.com/watch?v=vVy9Lgpg1m8">Travis Barker</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
+
+### November 27: Big or Small Data
+
+<img src="images/smalldata.JPG?raw=true" target="_blank"/>
+Well obviously I went for small data here, in the form of the individual cups of coffee I've had over the past year or so. Back when I went to an office I would plot my commute (on foot it's about three miles, a nice way to start the day) based on whatever coffee I was feeling that day, so that's what most of these are. The rest are pretty much one-offs, like getting a coffee before hopping on a train or something.
+<br><br>
+Data from my memory and <a href="https://octo.dc.gov/service/dc-gis-services">DC Open Data</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
+
+### November 26: Map with a New Tool
 
 <img src="images/IMG-2269.JPG?raw=true" target="_blank"/>
 It's Thanksgiving. I did not want to turn my computer on today. Watercolors are not technically a new-new tool for me, but the only other page on the watercolor pad with anything on it holds a painting of a hoagie. My skill level should make it clear, it's new enough that I'm not any good at it.
-
+<br><br>
 Drink is a <a href="https://www.seriouseats.com/recipes/2011/11/drinking-in-season-cranberry-negroni.html" target="_blank">cranberry negroni</a>.
 
 
-### November 24: COVID-19
+### November 25: COVID-19
 
 <img src="images/Corvids-nineteen.jpg?raw=true" target="_blank"/>
 Theme is Corvid 19? Did I read that right?
@@ -15,7 +44,7 @@ Actually rather proud of how well this dumb joke turned out. I've done a bunch o
 <br><br>
 Data from <a href="https://ebird.org/home" target="_blank">Cornell Lab of Ornithology</a>, which only had 18 corvids so I threw in a shrike as well (close enough) and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. 
 
-### November 23: Elevation
+### November 24: Elevation
 
 <img src="images/Ruapehu.jpg?raw=true" target="_blank"/>
 <a href="https://twitter.com/visualvariable" target="_blank"> Travis White</a> is an adroit cartographer and researcher. He's brilliantly creative, but also just very funny and lively and an excellent speaker, so his NACIS talks are always must-attend sessions for me. At NACIS 2018 (Norfolk) he gave a talk called <a href="https://www.youtube.com/watch?v=EUWDSpcs7W0" target="_blank">Cartographic Pleasures</a> on Joy Division’s 1979 album Unknown Pleasures as inspiration for terrain transect maps, and that concept has been stuck in the back of my mind as something I wanted to try. Helpfully, he also wrote up <a href="https://cartographicperspectives.org/index.php/journal/article/view/1536/1726" target="_blank">a very easy to follow tutorial in Cartographic Perspectives</a>, which is how I made this one. I chose Mt Ruapehu as the terrain, I skiied there once when I lived in Auckland and rather like its shape. Probably the only active volcano I will ever ski I reckon. Truly cannot tell you why I styled it to look like some hotel art from the 1980s.
@@ -23,7 +52,7 @@ Data from <a href="https://ebird.org/home" target="_blank">Cornell Lab of Ornith
 Data from <a href="https://search.earthdata.nasa.gov/search/granules/collection-details" target="_blank">NASA SRTM</a>. Typeface is Gill Sans.
 
 
-### November 22: Boundaries
+### November 23: Boundaries
 
 <img src="images/antarctica.jpg?raw=true" target="_blank"/>
 The main takeaway from this one is that the Norsk Polarinstitutt operates a free data platform called QUANTARCTICA.
