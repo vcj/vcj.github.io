@@ -28,14 +28,14 @@ Data from <a href="https://www.youtube.com/watch?v=vVy9Lgpg1m8">Travis Barker</a
 ### November 27: Big or Small Data
 
 <img src="images/smalldata.jpg?raw=true" target="_blank"/>
-Well obviously I went for small data here, in the form of the individual cups of coffee I've had over the past year or so. Back when I went to an office I would plot my commute (on foot it's about three miles, a nice way to start the day) based on whatever coffee I was feeling that day, so that's what most of these are. The rest are pretty much one-offs, like getting a coffee before hopping on a train or when stopping in to a museum.
+Well obviously I went for small data here, in the form of individual cups of coffee I've had over the past year or so. Back when I went to an office I would plot my commute (on foot it's about three miles, a nice way to start the day) based on whatever coffee I was feeling that day, so that's what most of these are. The rest are one- or two-offs, like getting a coffee before hopping on amtrak or stopping in to a museum.
 <br><br>
 Data from my memory and <a href="https://octo.dc.gov/service/dc-gis-services">DC Open Data</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
 ### November 26: Map with a New Tool
 
 <img src="images/IMG-2269.JPG?raw=true" target="_blank"/>
-It's Thanksgiving. I did not want to turn my computer on today. Watercolors are not technically a new-new tool for me, but the only other page on the watercolor pad with anything on it holds a painting of a hoagie. My skill level should make it clear, it's new enough that I'm not any good at it.
+It's Thanksgiving, and fortunately I had a new tool I could try without turning my computer on. Watercolors are not technically a new-new tool for me, but the only other page on the watercolor pad with anything on it holds a painting of a hoagie. My skill level should make it clear, it's new enough that I'm not any good at it.
 <br><br>
 Drink is a <a href="https://www.seriouseats.com/recipes/2011/11/drinking-in-season-cranberry-negroni.html" target="_blank">cranberry negroni</a>.
 
