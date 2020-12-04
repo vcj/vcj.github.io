@@ -13,7 +13,7 @@ Data from the <a href="https://www.openstreetmap.org/" target="_blank">OpenStree
 <img src="images/globe.jpg?raw=true" target="_blank"/>
 Hands down the map I spent the least amount of time on right here. I committed to doing this challenge every day and it's really only possible because of this perpetual state of quarantine but I am ready to get my evenings back (if you are just tuning in now, sorry, scroll down for better maps).
 <br><br>
-I am the proud owner of a 1965 Replogle globe, it haunts the top of a bookcase and looks handsome collecting dust (if this sounds familiar...I did write <a href="https://medium.com/the-awl/i-dont-even-know-who-you-are-anymore-1772af1d2208" target="_blank">an awl piece</a> in 2011 about getting drunk and buying it). Thoroughly uninterested in giving up any more of my Sunday than strictly necessary I pulled globe down and mapped differences to borders between 1965 and 2020. They can't all be winners. 
+I am the proud owner of a 1965 Replogle globe, it haunts the top of a bookcase and looks handsome collecting dust (if this sounds familiar...I did write <a href="https://medium.com/the-awl/i-dont-even-know-who-you-are-anymore-1772af1d2208" target="_blank">an awl piece</a> in 2011 about getting drunk and buying it). Thoroughly uninterested in giving up any more of my Sunday than strictly necessary I pulled the globe down and mapped differences to borders between 1965 and 2020. They can't all be winners. 
 <br><br>
 Data from the Replogle globe and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
