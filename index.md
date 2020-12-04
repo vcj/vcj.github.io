@@ -13,7 +13,7 @@ Data from the <a href="https://www.openstreetmap.org/" target="_blank">OpenStree
 <img src="images/globe.jpg?raw=true" target="_blank"/>
 Hands down the map I spent the least amount of time on right here. I committed to doing this challenge every day and it's really only possible because of this perpetual state of quarantine but I am ready to get my evenings back. Anyway. I am the proud owner of a 1965 Replogle globe, it haunts the top of a bookcase and looks handsome collecting dust (if this sounds familiar...I did write <a href="https://medium.com/the-awl/i-dont-even-know-who-you-are-anymore-1772af1d2208" target="_blank">an awl piece</a> in 2011 about getting drunk and buying it). Thoroughly uninterested in giving up any more of my Sunday than strictly necessary I pulled globe down and mapped differences to borders between 1965 and 2020. They can't all be winners. 
 <br><br>
-Data from Replogle and <a href="https://www.naturalearthdata.com/"target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
+Data from Replogle and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
 
 ### November 28: Non-Geographic Map
@@ -88,7 +88,7 @@ Data from <a href="https://www.ngdc.noaa.gov/mgg/greatlakes/">NOAA</a>. Typeface
 <img src="images/20 population.jpg?raw=true" target="_blank"/>
 One of the best aspects of the 30 Day Map Challenge is that it's a global challenge, so by the time I'm sitting down to make mine, the hashtag is already busy with wonderful cartography from mappers all over the world. I noticed a bunch of lovely work pointing towards <a href="http://www.statsmapsnpix.com/2020/11/how-to-make-3d-population-density.html" target="_blank">Alasdair Rae's 3D population density render</a> and had to try it out for myself.
 <br><br>
-Data from <a href="https://www.worldpop.org/project/categories?id=18">DC Open Data</a> rendered in <a href="http://ephtracy.github.io/index.html?page=aerialod" target="_blank">AerialOD</a>. Title translated in, uh, Google Translate. Mówię trochę po polsku but it's more like "soup, please" than any technical terminology. Typeface is Gill Sans.
+Data from <a href="https://www.worldpop.org/project/categories?id=18">WorldPop</a> rendered in <a href="http://ephtracy.github.io/index.html?page=aerialod" target="_blank">AerialOD</a>. Title translated in, uh, Google Translate. Mówię trochę po polsku but it's more like "soup, please" than any technical terminology. Typeface is Gill Sans.
 
 
 ### November 19: NULL
@@ -212,7 +212,7 @@ Data from <a href="https://catalogue.data.govt.nz/organization/department-of-con
 <img src="images/bloodfield.jpg?raw=true"/>
 I wasn't sure what to do for this one, so I asked Taylor for ideas, and he said, "I don't know, blood?" Which led me to finding this old map of DC neighborhoods and layering that with the current spread of (blood-)red maple trees. 
 <br><br>
-Data from <a href="https://opendata.dc.gov/">what I am now realizing is called Open Data DC and not DC GIS anymore</a> and <a href="https://ggwash.org/view/12595/meet-me-down-in-pipetown-dcs-neighborhoods-in-1877">Greater Greater Washington</a>. Both typefaces are from <a href="https://www.dafont.com/">dafont</a>'s warehouse of free for personal use fonts.</p>
+Data from <a href="https://opendata.dc.gov/">what I am now realizing is called Open Data DC and not DC GIS anymore</a> and <a href="https://ggwash.org/view/12595/meet-me-down-in-pipetown-dcs-neighborhoods-in-1877">Greater Greater Washington</a>. Both typefaces are from <a href="https://www.dafont.com/">dafont</a>'s warehouse of free for personal use fonts.
 
 ### November 5: Blue 
 
