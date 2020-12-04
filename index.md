@@ -28,7 +28,7 @@ Data from <a href="https://www.youtube.com/watch?v=vVy9Lgpg1m8">Travis Barker</a
 ### November 27: Big or Small Data
 
 <img src="images/smalldata.jpg?raw=true" target="_blank"/>
-Well obviously I went for small data here, in the form of individual cups of coffee I've had over the past year or so. Back when I went to an office I would plot my commute (on foot it's about three miles, a nice way to start the day) based on whatever coffee I was feeling that day, so that's what most of these are. The rest are one- or two-offs, like getting a coffee before hopping on amtrak or stopping in to a museum.
+Well obviously I went for small data here, in the form of individual cups of coffee I've had over the past year or so. Back when I went to an office I would plot my commute (on foot it's about three miles, a nice way to start the morning) based on whatever coffee I was feeling that day, so that's what most of these are. The rest are one- or two-offs, like getting a coffee before hopping on amtrak or stopping in to a museum.
 <br><br>
 Data from my memory and <a href="https://octo.dc.gov/service/dc-gis-services">DC Open Data</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
