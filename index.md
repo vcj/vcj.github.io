@@ -1,7 +1,7 @@
 ### November 30: A Map
 
 <img src="images/AStreet.jpg?raw=true" target="_blank"/>
-The theme of "a map" can go...anywhere. It's a very open prompt; I went for a literal interpretation. This map was inspired by one of the regular drives Taylor and I take whenever we visit his family in Florida and the comment he reliably makes when we pass <a href="https://www.google.com/maps/@29.8444999,-81.2770064,3a,75y,170.96h,113.62t/data=!3m6!1e1!3m4!1sC_FYRNQgfN7Bmjs4dWLAgA!2e0!7i16384!8i8192" target="_blank">this sign</a>: "hey! a street!" There are at least two A Streets in DC as well, North and South of the East Capitol Street. How many A Street segments are there? Turns out, a whole lot. Naturally, I wondered how many of these A Streets are within a quarter mile of a segment of B Street. But *what* is the story about the A Streets that aren't near a B St? Less instantly mappable but I am curious. 
+The theme of "a map" can go...anywhere. It's a very open prompt; I went for a literal interpretation. This map was inspired by one of the regular drives Taylor and I take whenever we visit his family in Florida and the comment he reliably makes when we pass <a href="https://www.google.com/maps/@29.8444999,-81.2770064,3a,75y,170.96h,113.62t/data=!3m6!1e1!3m4!1sC_FYRNQgfN7Bmjs4dWLAgA!2e0!7i16384!8i8192" target="_blank">this sign</a>: "hey! a street!" There are at least two A Streets in DC as well, North and South of the East Capitol Street. How many A Street segments are there? Turns out: many. Naturally, I wondered how many of these A Streets are within a quarter mile of a segment of B Street. But what is the story about the A Streets that aren't near a B St? Less instantly mappable but I am curious. Perhaps next year. 
 <br><br>
 Alternate approach, just enjoy being screamed at by this map.
 <br><br>
@@ -11,15 +11,17 @@ Data from the <a href="https://www.openstreetmap.org/" target="_blank">OpenStree
 ### November 29: Globe
 
 <img src="images/globe.jpg?raw=true" target="_blank"/>
-Hands down the map I spent the least amount of time on right here. I committed to doing this challenge every day and it's really only possible because of this perpetual state of quarantine but I am ready to get my evenings back. Anyway. I am the proud owner of a 1965 Replogle globe, it haunts the top of a bookcase and looks handsome collecting dust (if this sounds familiar...I did write <a href="https://medium.com/the-awl/i-dont-even-know-who-you-are-anymore-1772af1d2208" target="_blank">an awl piece</a> in 2011 about getting drunk and buying it). Thoroughly uninterested in giving up any more of my Sunday than strictly necessary I pulled globe down and mapped differences to borders between 1965 and 2020. They can't all be winners. 
+Hands down the map I spent the least amount of time on right here. I committed to doing this challenge every day and it's really only possible because of this perpetual state of quarantine but I am ready to get my evenings back (if you are just tuning in now, sorry, scroll down for better maps).
 <br><br>
-Data from Replogle and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
+I am the proud owner of a 1965 Replogle globe, it haunts the top of a bookcase and looks handsome collecting dust (if this sounds familiar...I did write <a href="https://medium.com/the-awl/i-dont-even-know-who-you-are-anymore-1772af1d2208" target="_blank">an awl piece</a> in 2011 about getting drunk and buying it). Thoroughly uninterested in giving up any more of my Sunday than strictly necessary I pulled globe down and mapped differences to borders between 1965 and 2020. They can't all be winners. 
+<br><br>
+Data from the Replogle globe and <a href="https://www.naturalearthdata.com/" target="_blank">Natural Earth</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
 
 ### November 28: Non-Geographic Map
 
 <img src="images/drums.jpg?raw=true" target="_blank"/>
-In February - I can't believe it was this year - Lindsey, Taylor, and I played a set of blink-182 covers in a benefit show for HIPS DC. It was exhilirating, and not just becase the Ramones band's bass player walked out and disappeared into the night in the middle of a song. I miss seeing and playing live music with my friends but I do not miss the stress of learning four difficult songs over the too-short weeks leading up to show! This map is sort of a peek into my memorization process, in that I think about where my hands and feet need to be spatially rather than musically, if that makes sense. It doesn't make me a great improviser but has made breaking down a song into managable parts something I feel comfortable doing.
+In February - I can't believe it was this year - Lindsey, Taylor, and I played a set of blink-182 covers in a benefit show for HIPS DC. It was exhilirating, and not just becase the Ramones band's bass player walked out and disappeared into the night in the middle of a song. I miss seeing and playing live music with my friends but I do not miss the stress of learning four songs from scratch over the too-short weeks leading up to the show! This map is sort of a peek into my memorization process, in that I think about where my hands and feet need to be spatially rather than musically, if that makes sense. It doesn't make me a great improviser but has made breaking down a song into managable parts something I feel comfortable doing.
 <br><br>
 Data from <a href="https://www.youtube.com/watch?v=vVy9Lgpg1m8">Travis Barker</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>.
 
