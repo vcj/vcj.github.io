@@ -198,7 +198,7 @@ Most of my maps for the challenge are pretty simple and straightforward, this on
 <img src="images/8 yellow.jpg?raw=true"/>
 When I saw <a href="https://moriartynaps.org/midnight-arrivial/">Dylan's gorgeous re-creation of flying into (or out of) a city at night</a>, I was immediately reminded of the story from a few years back around Col. Chris Hadfield's photo of Berlin from space and how, decades after reunification, the city's divide was literally visible from space in the streetlights. This was a quick one, so it's not so much a map as a georeferenced and labeled satellite image. Oh well. I still like it.
 <br><br>
-Data from <a href="https://daten.berlin.de/">Berlin Open Data</a> and <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, image from <a href="https://twitter.com/cmdr_hadfield/status/324638635766980608?lang=en">Colonel Chris Hadfield on twitter</a>. Based on what I could translate, I am pretty sure Berlin Open Data has streetlight data, but my German is p much limited to basic conversation and not, like, technical terms. Typeface is back to <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>!
+Data from <a href="https://daten.berlin.de/">Berlin Open Data</a> and <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, image from <a href="https://twitter.com/cmdr_hadfield/status/324638635766980608?lang=en">Colonel Chris Hadfield on twitter</a>. Based on what I could translate, I am pretty sure Berlin Open Data has streetlight data, but my German is p much limited to basic conversation and not, like, technical terms. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>!
 
 ### November 7: Green
 
@@ -233,7 +233,9 @@ Data from <a href="https://geonames.nga.mil/gns/html/namefiles.html">GNS</a> and
 
 <img src="images/3 polygons.jpg?raw=true"/>
 <br><br>
-Since it's election day, I figured it was only right to do a set of congressional district polygons. Data from <a href="http://cdmaps.polisci.ucla.edu/">http://cdmaps.polisci.ucla.edu/</a>, typeface is again <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. 
+Since it's election day, I figured it was only right to do a set of congressional district polygons.
+<br><br>
+Data from <a href="http://cdmaps.polisci.ucla.edu/">http://cdmaps.polisci.ucla.edu/</a>, typeface is again <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. 
 
 ### November 2: Lines 
 
@@ -246,7 +248,7 @@ Data from <a href="https://www.ncdc.noaa.gov/ibtracs/index.php?name=ib-v4-access
 ### November 1: Points 
 
 <img src="images/1 - points v2.jpg?raw=true"/>
- I actually made this one on October 1st...too excited for the challenge I guess. 
+ Actually made this one on October 1st...too excited for the challenge I guess. Ah well.
  <br><br>
  Data from <a href="https://octo.dc.gov/service/dc-gis-services">DC GIS</a>. Typeface is <a href="https://www.sarahbellmaps.com/typography-for-topography-belltopo-sans-free-font/">BellTopo Sans</a>. 
 
